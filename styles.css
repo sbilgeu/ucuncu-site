@@ -1,0 +1,54 @@
+
+.buyukluk{
+    font-size: 30px;
+}
+
+.blue{
+    color: #ffffff;
+}
+
+h1{
+    font-size: 60px;
+    color: #000000;
+}
+
+.araba{
+    color: #000000;
+}
+
+.arka{
+    background-color: #cacaca;
+}
+
+.arkasarı{
+    background-color: rgb(255, 230, 0) ;
+}
+
+#rrr{
+    color: #ff0000;
+}
+
+.relativeDİV{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+body{
+    height: 2000px;
+}
+
+.fix{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+
+    padding: 20px;
+    margin: 20px;
+}
+
+.proje01{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
